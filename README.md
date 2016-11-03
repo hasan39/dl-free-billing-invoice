@@ -6,5 +6,6 @@ You can easily use it in your php project.
 Here you can know how to add item from database, and Auto suggest used to add dynamic item row in invoice.
 
 You can also know how to validate your data using jquery..
-
+Also Thanks our Team Member Mr. Rabiul
+demo:http://fbi.digitallabbd.com/
 For more help....digitallabbd@gmail.com
